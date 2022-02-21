@@ -1,6 +1,10 @@
 Esta es la historia de Cristian Rivas
-Tiene 3 años y nacio en España
+Tiene 34 años y nacio en España
 
-Viviebdo en todo el mundo
+Viviendo en todo el mundo
 
 Hoy, empieza una nueva historia con git
+
+En camara parece alto, pero no lo es tanto
+
+Hoy es un alumno de platzi

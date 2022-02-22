@@ -1,4 +1,5 @@
 Esta es la historia de Cristian Rivas
+
 Tiene 34 años y nacio en España
 
 Viviendo en todo el mundo
@@ -8,3 +9,7 @@ Hoy, empieza una nueva historia con git
 En camara parece alto, pero no lo es tanto
 
 Hoy es un alumno de platzi
+
+Buenos dias, hoy continuamos con git, Martes 22
+
+Son las 8.10 am

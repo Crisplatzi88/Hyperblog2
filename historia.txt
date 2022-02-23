@@ -13,3 +13,5 @@ Hoy es un alumno de platzi
 Buenos dias, hoy continuamos con git, Martes 22
 
 Son las 8.10 am
+
+Dia 3
